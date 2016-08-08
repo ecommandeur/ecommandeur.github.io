@@ -6,7 +6,8 @@
   },
   "site": {
     "title": "Eddies Ramblings",
-    "logo": "gravatar"
+    "description": "Dreaming of unicorns",
+    "logo": "http://github.com/ecommandeur/ecommandeur.github.io/images/ecommand_profile.jpg"
   },
   "socialnetwork": {
     "email": "",
