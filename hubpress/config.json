@@ -4,6 +4,12 @@
     "repositoryName": "ecommandeur.github.io",
     "branch": "master"
   },
+  "site": {},
+  "socialnetwork": {
+    "email": "",
+    "twitter": "https://twitter.com/ecommandeur",
+    "github": "https://github.com/ecommandeur"
+  },
   "theme": {
     "name": "ghostium"
   }
