@@ -7,7 +7,7 @@
   "site": {
     "title": "Eddies Ramblings",
     "description": "Dreaming of unicorns",
-    "logo": "https://raw.githubusercontent.com/ecommandeur/ecommandeur.github.io/master/images/ecommand_profile.jpg"
+    "logo": ""
   },
   "socialnetwork": {
     "email": "",
@@ -15,6 +15,6 @@
     "github": "https://github.com/ecommandeur"
   },
   "theme": {
-    "name": "uno"
+    "name": "uno-zen"
   }
 }
