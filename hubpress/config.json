@@ -4,7 +4,10 @@
     "repositoryName": "ecommandeur.github.io",
     "branch": "master"
   },
-  "site": {},
+  "site": {
+    "title": "Eddies Ramblings",
+    "logo": "gravatar"
+  },
   "socialnetwork": {
     "email": "",
     "twitter": "https://twitter.com/ecommandeur",
